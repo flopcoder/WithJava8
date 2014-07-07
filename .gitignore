@@ -4,7 +4,7 @@
 .mtj.tmp/
 out/
 .idea/
-*.impl
+*.iml
 # Package Files #
 *.jar
 *.war
